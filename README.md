@@ -67,4 +67,4 @@ Master of Health Informatics | Data Analyst | Healthcare Innovator
 📍 Rhode Island
 
 LinkedIn: https://www.linkedin.com/in/christopher-fontes/
-Tableau Public: > 🔗 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/christopher.fontes1745/vizzes)
+Tableau Public: > 🔗 **Interactive Dashboard:** [View on Tableau Public](public.tableau.com/app/profile/christopher.fontes1745/vizzes)
