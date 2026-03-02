@@ -26,32 +26,31 @@ Objectives
 	5.	Train & Evaluate: Propose training frameworks for providers and IT staff with measurable outcomes like improved usability and comprehension.
 
 🧩 Data Insights
-	•	Providence County has the largest population in Rhode Island (660K+) but the lowest civic engagement and EHR comprehension rates.
-	•	6.1% of residents are not English proficient — the highest in the state, correlating with lower health portal usage and digital literacy.
-	•	Latino populations and single-parent households showed the strongest link between language barriers and care gaps.
-	•	Translation & visualization improvements in patient portals can directly enhance comprehension, reduce provider clarifications, and improve outcomes.
+- Providence County has the largest population in Rhode Island (660K+) but the lowest civic engagement and EHR comprehension rates.
+- 6.1% of residents are not English proficient — the highest in the state, correlating with lower health portal usage and digital literacy.
+- Latino populations and single-parent households showed the strongest link between language barriers and care gaps.
+- Translation & visualization improvements in patient portals can directly enhance comprehension, reduce provider clarifications, and improve outcomes.
 
 📈 Visual Dashboards
 
 All dashboards were created in Tableau Public to highlight Rhode Island’s population, literacy, and language trends by county.
 
 Key Visuals:
-	•	County Participation Chart: Displays civic engagement and census response rates by county.
-	•	Demographic Breakdown: Highlights Latino population, non-English speakers, and household structures.
-	•	Language Accessibility Bubble Chart: Visualizes limited English proficiency vs. population size.
+- County Participation Chart: Displays civic engagement and census response rates by county.
+- Demographic Breakdown: Highlights Latino population, non-English speakers, and household structures.
+- Language Accessibility Bubble Chart: Visualizes limited English proficiency vs. population size.
 
 🔗 View Full Dashboard: Tableau Public – Bridging Language Barriers in RI EHR Systems: https://public.tableau.com/shared/HZHMBN3K8?:display_count=n&:origin=viz_share_link
 
 🧠 Tools & Technologies
-	•	Tableau Public: Data visualization and storytelling
-	•	Excel: Data cleaning and preprocessing
-	•	Power BI (optional): Comparative prototype dashboards
-	•	Public Data Sources: U.S. Census Bureau, Rhode Island Department of Health
+- Tableau Public: Data visualization and storytelling
+- Excel: Data cleaning and preprocessing
+- Public Data Sources: U.S. Census Bureau, Rhode Island Department of Health
 
 💡 Key Takeaways
-	•	Language accessibility isn’t just a communication issue, it’s a data equity issue.
-	•	Visual analytics can bridge the gap between policy, patient understanding, and system design.
-	•	Health informatics leaders must integrate equity, usability, and empathy in every dashboard and workflow.
+- Language accessibility isn’t just a communication issue, it’s a data equity issue.
+- Visual analytics can bridge the gap between policy, patient understanding, and system design.
+- Health informatics leaders must integrate equity, usability, and empathy in every dashboard and workflow.
 
 🏁 Outcome
 
