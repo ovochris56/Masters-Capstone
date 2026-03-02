@@ -19,11 +19,11 @@ Purpose
 To address inequities in patient understanding of EHR information by proposing patient-centered redesigns that simplify medical language and make health data more accessible across linguistic and cultural boundaries.
 
 Objectives
-	1.	Identify Barriers: Analyze demographic, language, and socioeconomic data to locate counties with the highest risk of misunderstanding EHR information.
-	2.	Redesign Workflows: Simplify patient journeys by translating medical jargon into bilingual, plain-language explanations.
-	3.	Develop Equity-Driven Dashboards: Build Tableau visualizations demonstrating language accessibility and health equity patterns.
-	4.	Plan Budgets & Timelines: Define realistic cost estimates and phased implementation strategies.
-	5.	Train & Evaluate: Propose training frameworks for providers and IT staff with measurable outcomes like improved usability and comprehension.
+1. Identify Barriers: Analyze demographic, language, and socioeconomic data to locate counties with the highest risk of misunderstanding EHR information.
+2. Redesign Workflows: Simplify patient journeys by translating medical jargon into bilingual, plain-language explanations.
+3. Develop Equity-Driven Dashboards: Build Tableau visualizations demonstrating language accessibility and health equity patterns.
+4. Plan Budgets & Timelines: Define realistic cost estimates and phased implementation strategies.
+5. Train & Evaluate: Propose training frameworks for providers and IT staff with measurable outcomes like improved usability and comprehension.
 
 🧩 Data Insights
 - Providence County has the largest population in Rhode Island (660K+) but the lowest civic engagement and EHR comprehension rates.
